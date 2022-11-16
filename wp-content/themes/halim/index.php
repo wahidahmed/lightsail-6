@@ -32,6 +32,7 @@
 							<a href=""><i class="fa fa-envelope"></i> info@halim.com</a>
 							<a href=""><i class="fa fa-phone"></i> 23457689</a>
                      <a href=""><i class="fa fa-phone"></i> 23457689</a>
+                     <a href=""><i class="fa fa-phone"></i> 23457689</a>
 						</div>
 					</div>
 					<div class="col-md-6 col-sm-12 text-right">
